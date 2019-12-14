@@ -21,4 +21,5 @@ void draw() {
 void mousePressed() {
   points[currPoint] = new Point(mouseX, mouseY);
   currPoint++;
+  //Change Made
 }
