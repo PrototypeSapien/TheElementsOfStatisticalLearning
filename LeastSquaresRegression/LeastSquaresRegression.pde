@@ -1,3 +1,5 @@
+//This is a simulation of simple linear regression
+
 Point points[];
 int currPoint;
 
